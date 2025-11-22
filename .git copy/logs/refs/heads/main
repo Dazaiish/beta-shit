@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 0c16e0f2ab7d831e5f6f29f46dbb2f4538ce2fbe Dazaiish <khomeini6b@gmail.com> 1759304881 +0700	clone: from https://github.com/safvieraa/drivenGO.git
+0c16e0f2ab7d831e5f6f29f46dbb2f4538ce2fbe 8ed907f819b5b3378e9d359134970012b679dc3f Dazaiish <khomeini6b@gmail.com> 1759328758 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+8ed907f819b5b3378e9d359134970012b679dc3f 97f05c45335dab1fa7cab1687ce87a36ca469fe3 Dazaiish <khomeini6b@gmail.com> 1759572458 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+97f05c45335dab1fa7cab1687ce87a36ca469fe3 4903b8899c20233b9e32eb63596b55d3257ee075 Dazaiish <khomeini6b@gmail.com> 1759733715 +0700	commit: Update discount.blade.php
+4903b8899c20233b9e32eb63596b55d3257ee075 1d66b0faab70959a488a8b38038aaff21e762dd6 Dazaiish <khomeini6b@gmail.com> 1759735258 +0700	commit: Update discount.blade.php
+1d66b0faab70959a488a8b38038aaff21e762dd6 78f4060038ae7955fe316c5a94cfbb89c79ae5e3 Dazaiish <khomeini6b@gmail.com> 1760534809 +0700	commit: Update filter.blade.php
+78f4060038ae7955fe316c5a94cfbb89c79ae5e3 a4a146b298d9db6949c763821cf6b8ce3f383fd1 Dazaiish <khomeini6b@gmail.com> 1760944387 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+a4a146b298d9db6949c763821cf6b8ce3f383fd1 ea3a152c3c2d587dfdf8fc44e6d73c84aed5aac1 Dazaiish <khomeini6b@gmail.com> 1761826081 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+ea3a152c3c2d587dfdf8fc44e6d73c84aed5aac1 bf1ad71c45f63cd2a1ac40ef2e79e270202dfc35 Dazaiish <khomeini6b@gmail.com> 1763731178 +0700	commit: Update beranda.blade.php
+bf1ad71c45f63cd2a1ac40ef2e79e270202dfc35 1da2e0c2f2cac95e476f4b45039e4b740a21c30e Dazaiish <khomeini6b@gmail.com> 1763802315 +0700	commit: Update beranda.blade.php
+1da2e0c2f2cac95e476f4b45039e4b740a21c30e 7ff42e3a9c9ec33190b7b8883087a95ec3a38fd9 Dazaiish <khomeini6b@gmail.com> 1763802318 +0700	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+7ff42e3a9c9ec33190b7b8883087a95ec3a38fd9 eddad46f0016f6d7c5f1368e8b4a9f35cd518273 Dazaiish <khomeini6b@gmail.com> 1763803909 +0700	commit: dropdown description buat filter dan discount page
+eddad46f0016f6d7c5f1368e8b4a9f35cd518273 0943691ded5e88bc52900fbdfe713c2dbbaa3e3d Dazaiish <khomeini6b@gmail.com> 1763809457 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+0943691ded5e88bc52900fbdfe713c2dbbaa3e3d 007ad8a90489186192caf0542c4ef9e7a2c7b5bf Dazaiish <khomeini6b@gmail.com> 1763809755 +0700	commit: beranda, discount, filter, paymentmethod, paymentsection adjustment
+007ad8a90489186192caf0542c4ef9e7a2c7b5bf 9df8694a264cbfe7b05a2d90145ebd538b5e71de Dazaiish <khomeini6b@gmail.com> 1763818842 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+9df8694a264cbfe7b05a2d90145ebd538b5e71de 2f9151a5ec0f5732c945b166dde6171391c6ae0f Dazaiish <khomeini6b@gmail.com> 1763819425 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+2f9151a5ec0f5732c945b166dde6171391c6ae0f 460663860337ae5e969e8a441cb447827424e4bf Dazaiish <khomeini6b@gmail.com> 1763821700 +0700	commit: authcontroller, user,rename hash
+460663860337ae5e969e8a441cb447827424e4bf f8ef122d0edbc62e00f5ab6c4f1158bf27bd6196 Dazaiish <khomeini6b@gmail.com> 1763825336 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
